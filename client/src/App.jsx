@@ -8,11 +8,11 @@ function App() {
     <>
     
         <div className="App"> 
-
-        <h2>
-          ashiq farid
-        </h2>
-      </div>
+ 
+       <h2>Ashiq</h2>
+   
+       <h2>Farid</h2>
+       </div>
     </>
   )
 }
